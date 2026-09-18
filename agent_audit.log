@@ -1,0 +1,2 @@
+[2026-09-18T12:19:33.448Z] ACTION: CLEAR_CACHE | REASON: RAM usage exceeded threshold | DETAILS: {"ram":85.5}
+[2026-09-18T12:19:33.450Z] ACTION: RESTART_SERVICE | REASON: Error log spike detected | DETAILS: {"errors":2}
