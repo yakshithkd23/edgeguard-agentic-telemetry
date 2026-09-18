@@ -1,0 +1,14 @@
+{
+  "status": "HEALTHY",
+  "confidence": 0.7099192142486572,
+  "latency_fp32_ms": 16.0852,
+  "latency_int8_ms": 12.9198,
+  "raw_metrics": {
+    "timestamp": 1789733882.3479097,
+    "cpu_percent": 6.6,
+    "ram_percent": 85.5,
+    "disk_percent": 85.34,
+    "process_count": 281,
+    "error_logs_count": 2
+  }
+}
